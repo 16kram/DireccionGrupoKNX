@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DireccionGrupoKNX</string>
+    <string name="n_mero_de_planta">Número de planta</string>
+    <string name="n_mero_de_dali">Número de DALI</string>
+    <string name="n_mero_de_grupo">Número de grupo</string>
+    <string name="direcci_n_de_grupo">Dirección de grupo</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="acerca_de">Conversor de la información que proporciona el SCADA SpaceLynx de Cuatrecasas
+    Barcelona a una direción de grupo.
+        \n\nAplicación realizada por Esteban Porqueras.
+        \ne-mail: 16k.ram@gmail.com.</string>
+</resources>
